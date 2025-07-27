@@ -86,7 +86,7 @@ Applied two clustering techniques:
 ---
 
 ## 📂 Project Structure
-📦 Customer_Segmentation/
-📒 Online_Retail_Customer_Segmentation_Capstone_Project.ipynb
-├── 📄 README.md
-├── 📊 data.csv 
+* 📦 Customer_Segmentation/
+* 📒 Online_Retail_Customer_Segmentation_Capstone_Project.ipynb
+* ├── 📄 README.md
+* ├── 📊 data.csv 
